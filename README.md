@@ -1,6 +1,11 @@
 # Recriando o game Roll a Ball
 
-https://user-images.githubusercontent.com/68354176/156931120-b4b54792-6a2f-4478-b80b-232120ddade8.mp4
+![ezgif-1-326fd2d473](https://user-images.githubusercontent.com/68354176/156931245-c0b9546f-1bab-4147-a031-5db62e21da5e.gif)
+
+## Meus cursos na Udemy - Cupons de desconto no link abaixo:
+* https://wlo.link/@recriandogames
+
+
 
 ### 😀 Playlist no Youtube:
 https://www.youtube.com/watch?v=MraAdqhlZi0&list=PLSW3Hu9BLJUxI2P_NpIUyljod_YONkzQf
