@@ -8,10 +8,10 @@
 
 
 ### 😀 Playlist no Youtube:
-https://www.youtube.com/watch?v=MraAdqhlZi0&list=PLSW3Hu9BLJUxI2P_NpIUyljod_YONkzQf
+* https://www.youtube.com/watch?v=MraAdqhlZi0&list=PLSW3Hu9BLJUxI2P_NpIUyljod_YONkzQf
 
 ### ☕ Faça parte das nossas redes sociais e comunidade no Discord: 
-https://linktr.ee/recriandogames
+* https://linktr.ee/recriandogames
 
 ## 🚀 Links de referência utilizados para este tutorial:
 
